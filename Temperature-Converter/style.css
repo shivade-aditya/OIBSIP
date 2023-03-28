@@ -1,0 +1,27 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body
+{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color: rgb(92, 65, 65);
+	color: white;
+}
+
+#temp-conv
+{
+	padding-top: 10em;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+button {
+	padding: 4px 7px;
+}
